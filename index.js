@@ -11,5 +11,5 @@ function scuberGreetingForFeet(distance) {
     // else {
     //   message = 'No can do.';
     }
-
+    return message
 }
