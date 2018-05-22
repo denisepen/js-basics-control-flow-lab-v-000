@@ -15,4 +15,4 @@ function scuberGreetingForFeet(distance) {
     return message
 }
 
-let ternaryCheckCity(destination) = (destination === "NYC") ? "Ok, sounds good." : "No go.";
+function ternaryCheckCity(destination) = (destination === "NYC") ? "Ok, sounds good." : "No go.";
