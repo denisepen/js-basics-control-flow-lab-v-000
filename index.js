@@ -1,6 +1,6 @@
 // Write your code in this file!
 let message;
-let destination;
+// let destination;
 let tip;
 
 function scuberGreetingForFeet(distance) {
