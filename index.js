@@ -1,5 +1,6 @@
 // Write your code in this file!
 let message;
+let destination;
 
 function scuberGreetingForFeet(distance) {
 
@@ -14,4 +15,4 @@ function scuberGreetingForFeet(distance) {
     return message
 }
 
-// function ternaryCheckCity(destination)
+const ternaryCheckCity = (destination == NYC) ? "Ok, sounds good." : "No go.";
