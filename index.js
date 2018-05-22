@@ -20,13 +20,13 @@ function scuberGreetingForFeet(distance) {
  // function ternaryCheckCity(destination) {
  //   destination === "NYC" ? 'Ok, sounds good.' : "No go."; }
 
-function switchOnCharmFromTip(tip){
-  case "generous":
-  message = "Thank you so much.";
-  break;
-  case "not as generous":
-  message = "Thank you.";
-  break
-  default:
-  message = "Bye."
-}
+// function switchOnCharmFromTip(tip){
+//   case "generous":
+//   message = "Thank you so much.";
+//   break;
+//   case "not as generous":
+//   message = "Thank you.";
+//   break
+//   default:
+//   message = "Bye."
+// }
