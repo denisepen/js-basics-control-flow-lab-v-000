@@ -13,3 +13,5 @@ function scuberGreetingForFeet(distance) {
     }
     return message
 }
+
+function ternaryCheckCity(destination)
