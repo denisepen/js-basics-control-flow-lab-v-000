@@ -21,7 +21,7 @@ function scuberGreetingForFeet(distance) {
  //   destination === "NYC" ? 'Ok, sounds good.' : "No go."; }
 
 function switchOnCharmFromTip(tip){
-  switch(tip)
+  switch(tip){}
   // case "generous":
   // message = "Thank you so much.";
   // break;
